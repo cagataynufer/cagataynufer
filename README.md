@@ -16,7 +16,7 @@
 **(🔒 Private, available upon request due to academic integrity)**
 
 📂 **Deep Learning for NLP Assignments** (LMU, DL for NLP Course)  
-**Hands-on implementations of cutting-edge NLP models.** These projects cover:
+**Hands-on implementations of NLP models.** These projects cover:
 
 | **Repo** | **Description** | **Tech Stack** |
 |---|---|---|
