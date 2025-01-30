@@ -13,7 +13,7 @@
 ---
 
 ### ⬢ CURRENT PROJECTS
-**(🔒 Private, available upon request due to academic integrity and copyright concerns)**
+**(🔒 Private, available upon request due to academic integrity)**
 
 📂 **Deep Learning for NLP Assignments** (LMU, DL for NLP Course)  
 **Hands-on implementations of cutting-edge NLP models.** These projects cover:
