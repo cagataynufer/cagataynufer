@@ -28,14 +28,23 @@
 ---
 
 ### ⬢ TECH STACK
-📌 **Machine Learning & Deep Learning:**
-`LLMs` `Python` `PyTorch` `TensorFlow` `Hugging Face` `CTGAN` `GANs` `AutoML` `scikit-learn` `TensorBoard` `Plotly`
+📌 **Machine Learning & Deep Learning:**  
+`LLMs` `GPT` `BERT` `T5` `LLaMA` `Falcon` `Gemini` `Python` `PyTorch` `TensorFlow` `Hugging Face` `Transformers` `CTGAN` `GANs` `AutoML` `Graph Neural Networks (GNNs)` `Time-Series Forecasting` `MLOps` `MLflow` `Docker` `FastAPI`
 
-📌 **Big Data & Engineering:**
-`Dask` `PySpark` `PostgreSQL` `pgAdmin` `Data Pipelines`
+📌 **Natural Language Processing (NLP):**  
+`Named Entity Recognition (NER)` `Next Sentence Prediction (NSP)` `Text Summarization` `Semantic Search` `Sentiment Analysis` `Retrieval-Augmented Generation (RAG)` `Text-to-Image Generation` `Multimodal AI` `Few-Shot Learning` `Prompt Engineering`
 
-📌 **Visualization & Analytics:**
-`Tableau` `PowerBI` `matplotlib` `seaborn` `Plotly`
+📌 **Big Data & Engineering:**  
+`Dask` `PySpark` `Apache Spark` `PostgreSQL` `MySQL` `MongoDB` `Redis` `pgAdmin` `SQL` `NoSQL` `Cloud Deployment` `AWS (S3, Lambda, EC2)` `GCP` `Azure` `Data Pipelines` `ETL` `Airflow` `Kafka`
+
+📌 **Visualization & Analytics:**  
+`Tableau` `Power BI` `Looker` `Streamlit` `matplotlib` `seaborn` `Plotly` `Dash` `Business Intelligence` `KPI Tracking` `A/B Testing` `Causal Inference` `Customer Segmentation` `Churn Prediction`
+
+📌 **Software & DevOps:**  
+`Linux (Ubuntu)` `PowerShell` `Bash Scripting` `Git` `CI/CD` `Prefect` `VS Code` `Jupyter Notebooks`
+
+📌 **AI for Social Networks & Trend Analysis:**  
+`Social Media Analytics` `Web Scraping` `Graph-Based ML` `Network Analysis` `Trend Forecasting` `Influence Propagation`
 
 ---
 
